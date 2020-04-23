@@ -1,2 +1,2 @@
-- name: Action Hugo
-  uses: kevvurs/action-hugo@v1.0-rc2
+name: Action Hugo
+uses: kevvurs/action-hugo@v1.0-rc2
